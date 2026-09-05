@@ -1,3 +1,5 @@
+![SCI-FI WEB WORKS — interactive anthology](./docs/readme-cover.svg)
+
 # 科幻作品集 / SCI-FI WEB WORKS
 
 10 件原创互动网页作品，围绕记忆、观察、时间与选择展开。下方图片均截取自各项目的正式本地构建；点击图片或项目名可进入对应源码与完整说明。
