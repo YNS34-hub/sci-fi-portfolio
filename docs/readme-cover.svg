@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="SCI-FI WEB WORKS — interactive anthology">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#070b12"/>
+      <stop offset="1" stop-color="#101924"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop stop-color="#8ab4ff" stop-opacity=".38"/>
+      <stop offset="1" stop-color="#8ab4ff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="360" fill="url(#bg)"/>
+  <circle cx="925" cy="177" r="170" fill="url(#glow)"/>
+  <g fill="none" stroke="#7f93ad" stroke-width="1" opacity=".28">
+    <ellipse cx="925" cy="177" rx="166" ry="70"/>
+    <ellipse cx="925" cy="177" rx="126" ry="126" transform="rotate(-26 925 177)"/>
+    <ellipse cx="925" cy="177" rx="88" ry="154" transform="rotate(33 925 177)"/>
+    <path d="M740 177H1110M925 20V334"/>
+  </g>
+  <g fill="#dce8f8">
+    <circle cx="843" cy="116" r="3"/>
+    <circle cx="1004" cy="222" r="3"/>
+    <circle cx="956" cy="71" r="2"/>
+    <circle cx="788" cy="235" r="2"/>
+    <circle cx="1066" cy="144" r="2"/>
+  </g>
+  <text x="64" y="62" font-family="Arial,Helvetica,sans-serif" font-size="14" letter-spacing="4" fill="#718095">INTERACTIVE ANTHOLOGY / 10 WORKS</text>
+  <text x="64" y="158" font-family="Arial,Helvetica,sans-serif" font-size="54" font-weight="700" letter-spacing="-1.5" fill="#f4f7fb">SCI-FI WEB WORKS</text>
+  <text x="64" y="207" font-family="Arial,Helvetica,sans-serif" font-size="20" fill="#a8b4c4">memory · observation · time · atmosphere · choice</text>
+  <path d="M64 247H360" stroke="#91a8c6" stroke-width="2" opacity=".55"/>
+  <text x="64" y="288" font-family="Arial,Helvetica,sans-serif" font-size="14" fill="#76869a">React · Next.js · Vite · Three.js · GSAP · Canvas</text>
+  <text x="64" y="329" font-family="Arial,Helvetica,sans-serif" font-size="12" letter-spacing="2.4" fill="#536174">COLLECTION 01 / YNS34</text>
+</svg>
