@@ -1,0 +1,37 @@
+# Dependencies
+node_modules/
+
+# Build output and caches
+dist/
+build/
+.vite/
+.cache/
+.wrangler/
+coverage/
+test-results/
+playwright-report/
+artifacts/
+evidence/
+
+# Local tool metadata and archived copies
+.openai/
+versions/
+版本存档/
+备份/
+验收资料/
+
+# Environment and local-only files
+.env
+.env.*
+!.env.example
+*.local
+*.log
+*.lnk
+*.tsbuildinfo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+.idea/
+.vscode/

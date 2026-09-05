@@ -1,0 +1,21 @@
+{
+  "artwork": "CUT//FEVER 失控剪辑室",
+  "version": "2.0.0",
+  "label": "v2 优化版",
+  "originalSnapshot": "版本存档/v1-原版",
+  "originalSnapshotCreatedAt": "2026-08-03T09:11:32+08:00",
+  "optimizationStartedAt": "2026-08-03T09:12:02+08:00",
+  "builtAt": "2026-08-03T11:17:55+08:00",
+  "verifiedAt": "2026-08-03T11:22:25+08:00",
+  "shots": 18,
+  "typographyGroups": 8,
+  "endings": ["WITNESS", "CLEAN_CUT", "COUNTERCUT"],
+  "referenceMediaIncluded": false,
+  "localRuntimePort": 4371,
+  "fontPayloadBytes": 288380,
+  "safety": {
+    "defaultVisualGapMs": 340,
+    "reducedFlashVisualGapMs": 560,
+    "minimumFeverTicks": 4
+  }
+}

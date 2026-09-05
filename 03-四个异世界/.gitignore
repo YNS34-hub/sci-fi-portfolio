@@ -1,0 +1,11 @@
+node_modules/
+dist/
+work/
+outputs/
+.impeccable/
+*.tsbuildinfo
+vite.config.js
+vite.config.d.ts
+playwright-report/
+test-results/
+*.log

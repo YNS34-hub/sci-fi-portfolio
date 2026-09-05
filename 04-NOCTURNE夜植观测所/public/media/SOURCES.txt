@@ -1,0 +1,22 @@
+NOCTURNE 影像发现页与来源
+========================
+
+本轮从 Unsplash 搜索结果中选择夜间温室、植物微距与人物肖像，
+再下载为项目内的本地响应式素材。影像仍受 Unsplash 许可约束。
+
+夜间温室
+https://unsplash.com/photos/greenhouse-interior-seen-through-blurry-plants-at-night-E4yvkq6Yg9k
+https://unsplash.com/photos/a-lit-up-greenhouse-at-night-with-potted-plants-9NcQ0_H-wYE
+https://unsplash.com/photos/a-pond-inside-of-a-greenhouse-filled-with-lots-of-plants-vsrF6tF6JZk
+https://unsplash.com/photos/a-view-of-the-inside-of-a-tropical-greenhouse-m0kSzfvb-KM
+
+植物微距
+https://unsplash.com/photos/a-beautiful-white-night-blooming-cereus-flower-against-a-dark-background-I-D0KjYM8go
+https://unsplash.com/photos/macro-photography-of-green-leaves-A4Yvn1Qmgak
+https://unsplash.com/photos/macro-photography-of-leaves-yr-jSWQxoys
+https://unsplash.com/photos/macro-photography-of-green-leaves-lM5sVHLzgSs
+https://unsplash.com/photos/a-close-up-of-a-bunch-of-green-leaves-AJg0VH5oO1E
+
+人物肖像发现页
+https://unsplash.com/s/photos/asian-portrait
+https://unsplash.com/s/photos/asian-professional

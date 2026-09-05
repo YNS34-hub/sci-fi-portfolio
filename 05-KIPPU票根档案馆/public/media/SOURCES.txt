@@ -1,0 +1,22 @@
+KIPPU 馆藏影像来源
+====================
+
+本项目中的票券扫描来自 Wikimedia Commons。每张图像仍受其来源页所列许可约束。
+
+1. China-Railway-Ticket-Paper-Normal.jpg
+   https://commons.wikimedia.org/wiki/File:China-Railway-Ticket-Paper-Normal.jpg
+
+2. StTammanyTrolleyTicket1915.jpg
+   https://commons.wikimedia.org/wiki/File:StTammanyTrolleyTicket1915.jpg
+
+3. Kyiv Opera tickets (2007)
+   https://commons.wikimedia.org/wiki/Category:Tickets
+
+4. Dublin C.I.E. bus ticket 0990
+   https://commons.wikimedia.org/wiki/File:Dublin_C.I.E._bus_ticket_0990.jpg
+
+5. 1923 train ticket
+   https://commons.wikimedia.org/wiki/File:1923_train_ticket.jpg
+
+6. China-Railway-Ticket-Magnetic-Normal.jpg
+   https://commons.wikimedia.org/wiki/File:China-Railway-Ticket-Magnetic-Normal.jpg

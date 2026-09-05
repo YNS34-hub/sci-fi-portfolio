@@ -1,0 +1,540 @@
+{
+  "schemaVersion": 1,
+  "generator": "scripts/slice_storyboards.py",
+  "settings": {
+    "outputWidth": 1280,
+    "outputHeight": 720,
+    "format": "webp",
+    "quality": 92,
+    "darkThreshold": 24,
+    "darkRatio": 0.92
+  },
+  "sourceCount": 6,
+  "shotCount": 18,
+  "sources": [
+    {
+      "index": 1,
+      "file": "assets/source-storyboards/storyboard-01.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "bc3d7b04f5da8bf97d89988a091275dff0998494505e7520483104c5016ab521",
+      "separators": [
+        {
+          "start": 476,
+          "end": 557,
+          "method": "detected-black-separator",
+          "confidence": 0.933
+        },
+        {
+          "start": 1112,
+          "end": 1127,
+          "method": "detected-black-separator",
+          "confidence": 0.9958
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "file": "assets/source-storyboards/storyboard-02.png",
+      "width": 2048,
+      "height": 768,
+      "sha256": "ed610a161c36b1345a57e79ebddad20546c553f5f1dc938e2ab607ce8354abff",
+      "separators": [
+        {
+          "start": 655,
+          "end": 667,
+          "method": "detected-black-separator",
+          "confidence": 0.961
+        },
+        {
+          "start": 1097,
+          "end": 1371,
+          "method": "detected-black-separator",
+          "confidence": 0.8704
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "file": "assets/source-storyboards/storyboard-03.png",
+      "width": 1983,
+      "height": 793,
+      "sha256": "a9685b7924e7ed73e47c581a061a6ee05d90e291a05e1a491fea66da1bbb8b7f",
+      "separators": [
+        {
+          "start": 655,
+          "end": 669,
+          "method": "detected-black-separator",
+          "confidence": 0.9902
+        },
+        {
+          "start": 1168,
+          "end": 1327,
+          "method": "detected-black-separator",
+          "confidence": 0.9384
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "file": "assets/source-storyboards/storyboard-04.png",
+      "width": 2048,
+      "height": 768,
+      "sha256": "709d5c82b12fd7564fc1021c426a8959c3c2f21c2b2015bf18bb22c2ac6e8bdc",
+      "separators": [
+        {
+          "start": 665,
+          "end": 688,
+          "method": "detected-black-separator",
+          "confidence": 0.9947
+        },
+        {
+          "start": 1359,
+          "end": 1372,
+          "method": "detected-black-separator",
+          "confidence": 0.9832
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "file": "assets/source-storyboards/storyboard-05.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "ea1f6daf2da9ae7ba4de57d110997747789eeb928b2afa23470293ad527c7084",
+      "separators": [
+        {
+          "start": 580,
+          "end": 683,
+          "method": "detected-black-separator",
+          "confidence": 0.9269
+        },
+        {
+          "start": 1126,
+          "end": 1141,
+          "method": "detected-black-separator",
+          "confidence": 0.9821
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "file": "assets/source-storyboards/storyboard-06.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "2cfdaf4969766d076ec868d7caacfc28048322559bcd06e0312e3582ec04b734",
+      "separators": [
+        {
+          "start": 553,
+          "end": 567,
+          "method": "detected-black-separator",
+          "confidence": 0.9979
+        },
+        {
+          "start": 1104,
+          "end": 1117,
+          "method": "detected-black-separator",
+          "confidence": 0.9932
+        }
+      ]
+    }
+  ],
+  "shots": [
+    {
+      "id": "shot-01",
+      "file": "public/assets/shots/shot-01.webp",
+      "sourceIndex": 1,
+      "sourcePanel": 1,
+      "sourcePanelBox": [
+        0,
+        0,
+        474,
+        941
+      ],
+      "sourceCropBox": [
+        0,
+        313,
+        474,
+        580
+      ],
+      "width": 1280,
+      "height": 720,
+      "bytes": 70618,
+      "sha256": "499b38f14da08049db6e9fb25ece255da82460e099417ff5e2bbe8fcf99bd4c8"
+    },
+    {
+      "id": "shot-02",
+      "file": "public/assets/shots/shot-02.webp",
+      "sourceIndex": 1,
+      "sourcePanel": 2,
+      "sourcePanelBox": [
+        559,
+        0,
+        1110,
+        941
+      ],
+      "sourceCropBox": [
+        559,
+        294,
+        1110,
+        604
+      ],
+      "width": 1280,
+      "height": 720,
+      "bytes": 47752,
+      "sha256": "0308268de4dfe18af12d4d52ed3932a51bbf4d5545988a799170d6bf49ef114d"
+    },
+    {
+      "id": "shot-03",
+      "file": "public/assets/shots/shot-03.webp",
+      "sourceIndex": 1,
+      "sourcePanel": 3,
+      "sourcePanelBox": [
+        1129,
+        0,
+        1672,
+        941
+      ],
+      "sourceCropBox": [
+        1129,
+        296,
+        1672,
+        601
+      ],
+      "width": 1280,
+      "height": 720,
+      "bytes": 55660,
+      "sha256": "11436f6c5901868a9ad1831cee7ff30091ba914f10780b88aa5513c19c5c4854"
+    },
+    {
+      "id": "shot-04",
+      "file": "public/assets/shots/shot-04.webp",
+      "sourceIndex": 2,
+      "sourcePanel": 1,
+      "sourcePanelBox": [
+        0,
+        0,
+        653,
+        768
+      ],
+      "sourceCropBox": [
+        12,
+        190,
+        653,
+        551
+      ],
+      "width": 1280,
+      "height": 720,
+      "bytes": 150948,
+      "sha256": "7ef9795a8281286d8a7d4070588685204052eb69de75d153948dac97860ff166"
+    },
+    {
+      "id": "shot-05",
+      "file": "public/assets/shots/shot-05.webp",
+      "sourceIndex": 2,
+      "sourcePanel": 2,
+      "sourcePanelBox": [
+        669,
+        0,
+        1095,
+        768
+      ],
+      "sourceCropBox": [
+        669,
+        246,
+        1095,
+        486
+      ],
+      "width": 1280,
+      "height": 720,
+      "bytes": 88140,
+      "sha256": "5c093a908866329c4c112889bdd03c41736747b3970a1e04baea8debca675ec0"
+    },
+    {
+      "id": "shot-06",
+      "file": "public/assets/shots/shot-06.webp",
+      "sourceIndex": 2,
+      "sourcePanel": 3,
+      "sourcePanelBox": [
+        1373,
+        0,
+        2048,
+        768
+      ],
+      "sourceCropBox": [
+        1373,
+        184,
+        2037,
+        558
+      ],
+      "width": 1280,
+      "height": 720,
+      "bytes": 117366,
+      "sha256": "b35e617459c506d3db6582a5322c33a69cae4fb6212f6a1fde99e798bab02a09"
+    },
+    {
+      "id": "shot-07",
+      "file": "public/assets/shots/shot-07.webp",
+      "sourceIndex": 3,
+      "sourcePanel": 1,
+      "sourcePanelBox": [
+        0,
+        0,
+        653,
+        793
+      ],
+      "sourceCropBox": [
+        16,
+        203,
+        653,
+        561
+      ],
+      "width": 1280,
+      "height": 720,
+      "bytes": 98348,
+      "sha256": "6214f00a6144e6dc85fae59fbbe1c1fbe609e46c3229c6aa7fd8584c7037d00c"
+    },
+    {
+      "id": "shot-08",
+      "file": "public/assets/shots/shot-08.webp",
+      "sourceIndex": 3,
+      "sourcePanel": 2,
+      "sourcePanelBox": [
+        671,
+        0,
+        1166,
+        793
+      ],
+      "sourceCropBox": [
+        694,
+        245,
+        1166,
+        511
+      ],
+      "width": 1280,
+      "height": 720,
+      "bytes": 64610,
+      "sha256": "da087ffb9bb4c8eca4aad0d56fa68a35d6848de8694fedd822dadde8173126e5"
+    },
+    {
+      "id": "shot-09",
+      "file": "public/assets/shots/shot-09.webp",
+      "sourceIndex": 3,
+      "sourcePanel": 3,
+      "sourcePanelBox": [
+        1329,
+        0,
+        1983,
+        793
+      ],
+      "sourceCropBox": [
+        1329,
+        201,
+        1972,
+        563
+      ],
+      "width": 1280,
+      "height": 720,
+      "bytes": 81446,
+      "sha256": "c6196fc316d2e67d7796e36c86f003ddadec538f8a29e36b63931aff58a271a1"
+    },
+    {
+      "id": "shot-10",
+      "file": "public/assets/shots/shot-10.webp",
+      "sourceIndex": 4,
+      "sourcePanel": 1,
+      "sourcePanelBox": [
+        0,
+        0,
+        663,
+        768
+      ],
+      "sourceCropBox": [
+        0,
+        185,
+        663,
+        558
+      ],
+      "width": 1280,
+      "height": 720,
+      "bytes": 138704,
+      "sha256": "8419815a21ee00c19154dbe756bb9b2ba1b14a14e99daba3f2a61e1d50425f20"
+    },
+    {
+      "id": "shot-11",
+      "file": "public/assets/shots/shot-11.webp",
+      "sourceIndex": 4,
+      "sourcePanel": 2,
+      "sourcePanelBox": [
+        690,
+        0,
+        1357,
+        768
+      ],
+      "sourceCropBox": [
+        690,
+        184,
+        1357,
+        559
+      ],
+      "width": 1280,
+      "height": 720,
+      "bytes": 114548,
+      "sha256": "325bd2bf6e204f928c0570c51fd4d6b3d526fc8d6d8ae23e4deba6131190d26e"
+    },
+    {
+      "id": "shot-12",
+      "file": "public/assets/shots/shot-12.webp",
+      "sourceIndex": 4,
+      "sourcePanel": 3,
+      "sourcePanelBox": [
+        1374,
+        0,
+        2048,
+        768
+      ],
+      "sourceCropBox": [
+        1374,
+        182,
+        2048,
+        561
+      ],
+      "width": 1280,
+      "height": 720,
+      "bytes": 58692,
+      "sha256": "605b5bc8b9efdfca26628cf8a1ecee5a8000e6f67089eaf1226f454842d00237"
+    },
+    {
+      "id": "shot-13",
+      "file": "public/assets/shots/shot-13.webp",
+      "sourceIndex": 5,
+      "sourcePanel": 1,
+      "sourcePanelBox": [
+        0,
+        0,
+        578,
+        941
+      ],
+      "sourceCropBox": [
+        0,
+        287,
+        578,
+        612
+      ],
+      "width": 1280,
+      "height": 720,
+      "bytes": 86780,
+      "sha256": "1330d8aea8b0ef31b4f8feb47b2f4b9c43c329901d362f4a5be63f5b45a5eeac"
+    },
+    {
+      "id": "shot-14",
+      "file": "public/assets/shots/shot-14.webp",
+      "sourceIndex": 5,
+      "sourcePanel": 2,
+      "sourcePanelBox": [
+        685,
+        0,
+        1124,
+        941
+      ],
+      "sourceCropBox": [
+        685,
+        323,
+        1124,
+        570
+      ],
+      "width": 1280,
+      "height": 720,
+      "bytes": 81376,
+      "sha256": "811ae83c9c0e3eec9b6538033661966a3335cf966a0314a8a482b0748fd1e8a2"
+    },
+    {
+      "id": "shot-15",
+      "file": "public/assets/shots/shot-15.webp",
+      "sourceIndex": 5,
+      "sourcePanel": 3,
+      "sourcePanelBox": [
+        1143,
+        0,
+        1672,
+        941
+      ],
+      "sourceCropBox": [
+        1151,
+        302,
+        1670,
+        594
+      ],
+      "width": 1280,
+      "height": 720,
+      "bytes": 55270,
+      "sha256": "197fa3c630bcf5e1c8964c5d10604c5247504ad596e6001086a94fd7b64d8071"
+    },
+    {
+      "id": "shot-16",
+      "file": "public/assets/shots/shot-16.webp",
+      "sourceIndex": 6,
+      "sourcePanel": 1,
+      "sourcePanelBox": [
+        0,
+        0,
+        551,
+        941
+      ],
+      "sourceCropBox": [
+        17,
+        297,
+        551,
+        597
+      ],
+      "width": 1280,
+      "height": 720,
+      "bytes": 58314,
+      "sha256": "ce8c7424d9245fc5c7af11ae59b6eeaadade3cf5464f7423608a256ce3c3a494"
+    },
+    {
+      "id": "shot-17",
+      "file": "public/assets/shots/shot-17.webp",
+      "sourceIndex": 6,
+      "sourcePanel": 2,
+      "sourcePanelBox": [
+        569,
+        0,
+        1102,
+        941
+      ],
+      "sourceCropBox": [
+        569,
+        285,
+        1102,
+        585
+      ],
+      "width": 1280,
+      "height": 720,
+      "bytes": 82450,
+      "sha256": "fbc451e6516d385727eaf0c76635ce6dc9609c990dd88308009584ab4d1e210d"
+    },
+    {
+      "id": "shot-18",
+      "file": "public/assets/shots/shot-18.webp",
+      "sourceIndex": 6,
+      "sourcePanel": 3,
+      "sourcePanelBox": [
+        1119,
+        0,
+        1672,
+        941
+      ],
+      "sourceCropBox": [
+        1119,
+        296,
+        1655,
+        598
+      ],
+      "width": 1280,
+      "height": 720,
+      "bytes": 51484,
+      "sha256": "2d180c0a6fe69885cdd6a46653dba7f18a73d0130e8fa5970f0830d5584effec"
+    }
+  ]
+}
