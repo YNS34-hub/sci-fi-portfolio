@@ -31,6 +31,7 @@ versions/
 .DS_Store
 Thumbs.db
 desktop.ini
+docs/previews/capture-report.json
 
 # Editors
 .idea/

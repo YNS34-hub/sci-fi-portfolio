@@ -35,7 +35,7 @@ Four independent desktop-first creative sites and one gallery are implemented. P
 
 ## Production
 
-- Production URL: `https://four-unrelated-worlds-86135.jace-5533.chatgpt.site`
+- Production URL: owner-only preview used during the original QA run
 - Deployment: succeeded.
 - Sites build result: succeeded from the exact Phase 2 source; version provenance and deployment archive are recorded by Sites.
 - Sites production capture: the generated current-gallery screenshot is retained as `outputs/production-sites-v5.png` in the user-facing handoff.

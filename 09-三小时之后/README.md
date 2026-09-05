@@ -1,5 +1,7 @@
 # 《三小时之后 / AFTER THREE HOURS》
 
+![三小时之后界面预览](../docs/previews/09-after-three-hours.jpg)
+
 一件由 180 根分钟纤维构成、会记住观看者停留与触碰的本地互动作品。
 
 ## 打开作品

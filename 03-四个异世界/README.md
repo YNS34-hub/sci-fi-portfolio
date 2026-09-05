@@ -1,5 +1,7 @@
 # Four Unrelated Worlds
 
+![四个异世界展厅界面预览](../docs/previews/03-four-unrelated-worlds.jpg)
+
 A desktop-first exhibition of four original creative-web studies:
 
 - `/site-01` — **VANTA/FORM**, a ceremonial Three.js object assembly.
@@ -9,8 +11,6 @@ A desktop-first exhibition of four original creative-web studies:
 - `/` — the live exhibition index.
 
 The routes deliberately do not share a page template, typography system, palette, image language or signature interaction.
-
-Production: `https://four-unrelated-worlds-86135.jace-5533.chatgpt.site` (owner-only access).
 
 ## Run
 

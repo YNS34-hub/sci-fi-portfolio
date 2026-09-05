@@ -83,7 +83,7 @@ node tests/visual-qa.mjs desktop-1920 interactions
 
 ## Production deployment verification
 
-Production URL: `https://four-unrelated-worlds-86135.jace-5533.chatgpt.site`
+Production URL: owner-only preview used during the original QA run
 
 - The validated Phase 2 source commit was pushed, saved as a Sites version and deployed successfully.
 - `get_site_version` reports an exact source commit, a 40-file deployment archive and a 12,544,000-byte package.

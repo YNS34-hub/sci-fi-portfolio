@@ -1,10 +1,12 @@
 # NOCTURNE 夜植观测所
 
+![NOCTURNE 夜植观测所界面预览](../docs/previews/04-nocturne-observatory.jpg)
+
 使用 `gpt-taste` 独立完成的 React 网站作品。
 
 ## 本地运行
 
-已构建文件位于 `dist`。在 Windows 中右键 `启动网站.ps1`，选择“使用 PowerShell 运行”，浏览器会打开本地网站。
+执行生产构建后，文件会输出到 `dist`。
 
 开发方式：
 

@@ -1,4 +1,10 @@
-# vinext-starter
+# 余光协议 / AFTERGLOW PROTOCOL
+
+![余光协议界面预览](../docs/previews/01-afterglow-protocol.jpg)
+
+一部关于集体记忆、责任与安慰的互动科幻作品。界面把公共记忆处理成一台太阳观测仪器，观看者可读取记录并生成只保存在本地的个人回执。
+
+## 开发说明
 
 A clean full-stack starter running on
 [vinext](https://github.com/cloudflare/vinext), with optional Cloudflare D1 and
