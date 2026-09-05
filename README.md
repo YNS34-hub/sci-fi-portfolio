@@ -1,4 +1,4 @@
-![SCI-FI WEB WORKS — interactive anthology](./docs/readme-cover.svg)
+![SCI-FI WEB WORKS — interactive anthology](./docs/github-cover.png)
 
 # 科幻作品集 / SCI-FI WEB WORKS
 
